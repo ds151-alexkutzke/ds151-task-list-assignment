@@ -16,7 +16,7 @@ Utilize o projeto já existente nesse repositório e adicione uma tela que imple
 
 Exemplo de funcionamento:
 
-![Todo List](images/exemplo.gif)
+![Todo List](images/exemplo.gif|width=400)
 
 ## Lembrando
 
