@@ -10,5 +10,19 @@ Universidade Federal do Paraná - UFPR
 
 Prof. Alexander Robert Kutzke
 
-# Atividade Lista de Tarefas
+# Atividade Lista de Tarefas 
 
+Utilize o projeto já existente nesse repositório e adicione uma tela que implementa uma Lista de Tarefas bastante simples.
+
+Exemplo de funcionamento:
+
+![Todo List](images/exemplo.gif)
+
+## Lembrando
+
+Clonar o projeto e executar o seguinte:
+
+```
+npm ci
+npx expo start
+```
